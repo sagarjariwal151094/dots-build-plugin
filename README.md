@@ -4,13 +4,13 @@ Follow the below step to create the basic structure of a plugin
 1. Open your web browser and navigate to "https://wppb.me/".
 2. On the "https://wppb.me/" site, you'll find a form for generating your plugin's boilerplate. Fill in the following details:
     
-    * **Plugin Name:** Enter your desired plugin name.
-    * **Plugin Slug:** Provide a slug, which is a unique identifier for your plugin. Use lowercase letters and hyphens only.
-    * **Plugin URL:** Enter the URL where your plugin will be hosted (usually your website URL).
-    * **Author Name:** Your name or your organization's name.
-    * **Author Email:** Your contact email.
-    * **Author URI:** Your website's URL.
-    * **Plugin Short Description:** A brief description of your plugin's purpose.
+    * _**Plugin Name:**_ Enter your desired plugin name.
+    * _**Plugin Slug:**_ Provide a slug, which is a unique identifier for your plugin. Use lowercase letters and hyphens only.
+    * _**Plugin URL:**_ Enter the URL where your plugin will be hosted (usually your website URL).
+    * _**Author Name:**_ Your name or your organization's name.
+    * _**Author Email:**_ Your contact email.
+    * _**Author URI:**_ Your website's URL.
+    * _**Plugin Short Description:**_ A brief description of your plugin's purpose.
 
 Once you've filled in all the required details, click on the "Build Plugin". This should generate a downloadable zip file containing the boilerplate for your plugin.
 
